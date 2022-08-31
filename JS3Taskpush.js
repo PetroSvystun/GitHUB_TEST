@@ -1,4 +1,4 @@
-let CC = "rrr";
+let CC = "55";
 let age = Number(CC)
 let AAA = typeof(age);
 if (AAA == "number"){    
